@@ -242,7 +242,7 @@ namespace CoreDb
 
         #endregion ExecuteNonQuery
 
-        //~DataAccessLayer()
+        //~DataAccessLayer(
 
         #region Transactions
 
